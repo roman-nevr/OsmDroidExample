@@ -9,7 +9,7 @@ import java.util.List;
  * Created by roma on 21.08.17.
  */
 
-public class Polygon extends Geometry {
+public class MyPolygon extends Geometry {
 //    @SerializedName("type")
 //    @Expose
 //    public String type;

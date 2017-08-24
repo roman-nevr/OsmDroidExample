@@ -13,7 +13,7 @@ public class Properties {
     public String fill;
     @SerializedName("fill-opacity")
     @Expose
-    public Float fillOpacity;
+    public float fillOpacity;
     @SerializedName("stroke")
     @Expose
     public String stroke;
@@ -22,7 +22,7 @@ public class Properties {
     public String strokeWidth;
     @SerializedName("stroke-opacity")
     @Expose
-    public Float strokeOpacity;
+    public float strokeOpacity;
     @SerializedName("marker-color")
     @Expose
     public String markerColor;
